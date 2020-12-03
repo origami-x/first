@@ -1,4 +1,5 @@
 first v1
 do something
 first v2
-blue success
+red is completed
+red can replace the blue version now
