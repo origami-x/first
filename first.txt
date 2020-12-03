@@ -1,3 +1,5 @@
 first v1
 do something
 first v2
+red is completed
+red can replace the blue version now
